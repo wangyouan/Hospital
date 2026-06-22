@@ -1,0 +1,27 @@
+# 数据产物（大文件，不跟踪）
+data/
+outputs/
+
+# 临时文件
+scratch/
+*.tmp
+*.swp
+
+# 日志
+logs/
+*.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.DS_Store
+
+# 系统文件
+Thumbs.db
